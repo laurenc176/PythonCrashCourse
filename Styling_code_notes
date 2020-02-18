@@ -1,0 +1,15 @@
+Take the time to make the code as easy as possible to read. This will help keep track of what your programs are doing and also
+helps others understand what it is doing
+
+Python Style Guide see PEP 8
+Indentation
+  PEP8 recommends four spaces per indenttation level.  It improves readability while leaving room for multiple levels of indetation on each line. (while useing the tab key) Make sure the editor being used is set to insert spaces rather than tabs into the document.
+
+Line length - "not set in stone"
+  Many Python programmers recommend that each line should be less than 80 characters (79 max)
+  Also recommended to keep comments to 72 characters per line
+
+Blank lines
+  Use blank lines to group the program visually, but don't do so excessively
+  i.e. one blank line between 2 sections, not 3 or 4
+  Blank lines won't affect how code is run but will affect the readability
