@@ -1,7 +1,7 @@
 #organizing a list
 
 #sorting a list permanently with the sort() method, can never revert 
-#to original order
+# to original order (unless a copy is made first)
 cars = ['bmw','audi','toyota','subaru']
 cars.sort()
 print(cars)
