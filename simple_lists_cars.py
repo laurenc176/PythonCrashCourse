@@ -31,4 +31,5 @@ print(cars)
 
 #other methods I already know:
 len(cars)
+cars[-1] # using -1 as an index will always return the last item in a list unless list is empty, then will get an error
 
