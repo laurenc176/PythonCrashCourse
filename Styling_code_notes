@@ -13,3 +13,6 @@ Blank lines
   Use blank lines to group the program visually, but don't do so excessively
   i.e. one blank line between 2 sections, not 3 or 4
   Blank lines won't affect how code is run but will affect the readability
+  
+Comparison operators:
+  use single white space for better readability, i.e. if age > 4  not if age>4
