@@ -38,3 +38,15 @@ if 'erin' not in favorite_languages.keys():
 for name in sorted(favorite_languages.keys()):
 	print(name.title())
 print(favorite_languages)
+
+#Looping through  all values
+for language in favorite_languages.values():
+	print(language.title())
+
+# loop through values and omit repeats using set():
+for language in set(favorite_languages.values()):
+	print(language.title())
+
+#Note on sets: are made using {} just like a dictionary:
+languages = {'python', 'ruby', 'python', 'c'}
+print(languages)
