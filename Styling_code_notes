@@ -16,3 +16,11 @@ Blank lines
   
 Comparison operators:
   use single white space for better readability, i.e. if age > 4  not if age>4
+  
+Functions:
+ - should always have a descriptive name, lowercase letters and underscores
+ - Docstring explaining consisely what it does immediately after the definition
+ - if using a default value or a keyword argument: no spaces on either side of equal sign
+      def function_name(par_0, par_1='default value')
+      def function_name(value_0, par_1='value')
+ - all imports should be written at the beginning of the the file
