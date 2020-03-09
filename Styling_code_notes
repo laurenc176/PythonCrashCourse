@@ -24,3 +24,8 @@ Functions:
       def function_name(par_0, par_1='default value')
       def function_name(value_0, par_1='value')
  - all imports should be written at the beginning of the the file
+ 
+ Classes:
+ - names should be written in CamelCase. Instances and module names should be lowercase and _ between words
+ - have a docstring with a brief description of what the class does
+ - remember self rules
